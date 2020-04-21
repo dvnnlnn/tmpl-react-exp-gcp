@@ -14,7 +14,8 @@
   },
   "prettier": {
     "singleQuote": true,
-    "printWidth": 100
+    "printWidth": 100,
+    "trailingComma": "es5"
   },
   "proxy": "http://localhost:8888",
   "watch": {
