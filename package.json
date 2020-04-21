@@ -13,7 +13,8 @@
     "deploy": "gcloud app deploy"
   },
   "prettier": {
-    "singleQuote": true
+    "singleQuote": true,
+    "printWidth": 100
   },
   "proxy": "http://localhost:8888",
   "watch": {
